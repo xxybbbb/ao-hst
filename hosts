@@ -1,0 +1,36 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# ==== BHDATA-START 请勿删除本段(BHData 一键配置工具维护) ====
+82.156.5.209	app.bhdata.com
+82.156.5.209	www.bhdata.com
+82.156.5.209	auth.bhdata.com
+82.156.5.209	bsh.bhdata.com
+82.156.5.209	authhk.bhdata.com
+82.156.5.209	authus.bhdata.com
+82.156.5.209	bsh2.bhdata.com
+82.156.5.209	authhk2.bhdata.com
+82.156.5.209	authus2.bhdata.com
+82.156.5.209	app2.bhdata.com
+82.156.5.209	appsms.bhdata.com
+82.156.5.209	update.bhdata.com
+# ==== BHDATA-END ====
